@@ -9,6 +9,12 @@
 </div>
 
 </br>
+- 🔭 I’m currently working on: <a href="https://github.com/shoichiideologies/project-gutenburg">Project Gutenberd revamp</a><br>
+- 🌱 I’m currently learning: Web development [HTML, CSS, JavaScript]<br>
+- 👯 I’m looking to collaborate on: Calorie calculator: An automatic calculation of a gym goer body statistics.<br>
+- 💬 Ask me about: Organization skills, Java, and Netflix series<br>
+- 📫 How to reach me: Gmail, Outlook, and Instagram<br>
+</br>
 
 <div width=200px>
   <h3 align="center"> Languages | Tools | Organization </h3><br/>
