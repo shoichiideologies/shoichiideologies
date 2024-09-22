@@ -1,6 +1,6 @@
 ## Hi there, I'm Angelo. 👋
 
-<p>I am Angelo. I'm a computer science student at the Philippines.</p>
+<p>I am Angelo. I'm studying computer science at <a href="https://www.tsu.edu.ph/" target="_blank"></a></p>
 
 <!--
 **shoichiideologies/shoichiideologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
