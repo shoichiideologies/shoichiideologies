@@ -21,8 +21,8 @@
 
 <div align="center">
   <h3 align="center">Statistics</h3></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shoichiideologies&show_icons=true&theme=radical"><br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoichiideologies&theme=radical&card_width=466px">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoichiideologies&show_icons=true&theme=radical&border_radius=10&border_color=#7b7d7d7"><br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoichiideologies&theme=radical&card_width=466px&border_radius=10">
 </div>
 
 
