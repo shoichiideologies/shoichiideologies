@@ -10,24 +10,20 @@
 
 </br>
 
-<div>
-  <h3 align="center"> Languages | Tools | Organization </h3>
+<div width=200px>
+  <h3 align="center"> Languages | Tools | Organization </h3><br/>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,java,css,html,git,github,figma,notion,visualstudio,visualstudiocode" /><br>
   </div>
 </div>
 
-<br/>
+<br/></br></br>
 
-<h3 align="center">Stats</h3>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-shoichiideologies.vercel.app/?user=shoichiideologies&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-shoichiideologies.vercel.app/api?username=shoichiideologies&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-shoichiideologies.vercel.app/api/top-langs/?username=shoichiideologies&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <h3 align="center">Statistics</h3></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=shoichiideologies&show_icons=true&theme=radical"><br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoichiideologies&theme=radical&card_width=466px">
 </div>
-
 
 
 <!--
