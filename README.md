@@ -19,7 +19,7 @@
 <div width=200px>
   <h3 align="center"> Languages | Tools | Organization </h3><br/>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,css,html,git,github,figma,notion,visualstudio,visualstudiocode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,css,html,git,github,figma,notion,visualstudio" /><br>
   </div>
 </div>
 
