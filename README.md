@@ -19,8 +19,8 @@
 <div width=200px>
   <h3 align="center"> Languages | Tools | Organization </h3><br/>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,css,html,git,github,figma,notion,visualstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,azure,windows,apple,discord,dotnet,eclipse,gmail,linkedin,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,css,html,git,github,figma,notion,visualstudio,php,nodejs,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,azure,windows,apple,discord,dotnet,eclipse,gmail,linkedin,tailwind,mysql,regex,svg" /><br>
   </div>
 </div>
 
