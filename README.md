@@ -15,6 +15,7 @@ I will always here…
 because I’m a dog!” 🐺
   </p>
 </div>
+<br></br>
 
 <div width=200px>
   <h3 align="center"> Languages | Tools | Organization </h3><br/>
