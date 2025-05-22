@@ -4,7 +4,15 @@
   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Angelo+!;" />
 </h1>
   <p>
-    Hi!
+    “What hafen, Vella?
+Why you crying again?
+I know… vampire, right?
+Vampire will feyt to me!
+Because I love you, Vella!
+I will protec you, Vella!
+Don’t worry…
+I will always here…
+because I’m a dog!” 🐺
   </p>
 </div>
 
