@@ -4,17 +4,9 @@
   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Angelo+!;" />
 </h1>
   <p>
-    I'm currently pursuing Computer Science at <a href="https://www.tsu.edu.ph/" target="_blank">Tarlac State University</a> in the Philippines. I'm passionate about programming and am always eager to collaborate on projects that can enhance my skills in programming, particularly in Java, Python, Visual Basic, and Web development [HTML, CSS, and JavaScript]. I’m constantly exploring new knowledge in technology and the internet, with the goal of contributing to the innovations shaping our future. I look forward to growing as a developer and hope to work with others who share a love for technology and creativity.
+    Hi!
   </p>
 </div>
-
-</br>
-- 🔭 I’m currently working on: <a href="https://github.com/shoichiideologies/project-gutenburg">Project Gutenberg revamp</a><br>
-- 🌱 I’m currently learning: Web development [HTML, CSS, JavaScript]<br>
-- 👯 I’m looking to collaborate on: Calorie calculator: An automatic calculation of a gym goer body statistics.<br>
-- 💬 Ask me about: Organization skills, Java, and Netflix series<br>
-- 📫 How to reach me: Gmail, Outlook, and Instagram<br>
-</br>
 
 <div width=200px>
   <h3 align="center"> Languages | Tools | Organization </h3><br/>
